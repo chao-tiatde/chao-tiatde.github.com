@@ -1,0 +1,23 @@
+.title1 {
+    color: #FF0004;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+}
+.main1 {
+    color: #00FF05;
+    font-size: large;
+    text-align: right;
+    text-decoration: overline;
+}
+.main2 {
+    color: #0A00FF;
+    text-align: center;
+    font-size: large;
+    background-color: #9CE4E1;
+}
+#cpation img {
+    text-shadow: 0px px px #FF0004;
+    -webkit-box-shadow: 15px 15px 0 #464646;
+    box-shadow: 15px 15px 0 #464646;
+}
